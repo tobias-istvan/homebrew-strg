@@ -1,6 +1,6 @@
 cask "strg" do
-  version "0.1.4"
-  sha256 "c9bac98ae8fe780017336c37532473245e8f0180be278b5f2abb27093e787bbf"
+  version "0.1.5"
+  sha256 "00499934d520629c6b3ea22b1db5abad569e4c303bbe8b33cef4c3ee578209b6"
 
   url "https://github.com/tobias-istvan/homebrew-strg/releases/download/v#{version}/strg-#{version}-aarch64.zip"
   name "strg"
